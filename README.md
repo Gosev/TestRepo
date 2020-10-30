@@ -8,4 +8,4 @@ This is section 1
 This is section 2
 
 # Section 3
-Ceci est la section 3
+This is section 3
